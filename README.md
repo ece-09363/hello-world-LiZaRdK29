@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: WIN_20180129_14_19_11_Pro.jpg
 
 2. My name is Sean Callahan, I am a co-founder of the Rowan Longboarding and I enjoy listening to music.
