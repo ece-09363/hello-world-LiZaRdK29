@@ -8,4 +8,4 @@
 
 [selfie]: IMG_20180129_125611.jpg
 
-2. Tell me something interesting about yourself
+2. My name is Sean Callahan, I am a co-founder of the Rowan Longboarding and I enjoy listening to music.
